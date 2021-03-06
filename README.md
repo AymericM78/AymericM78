@@ -54,8 +54,7 @@ You can follow or reach me on social networks:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AymericM78&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aymeric's GitHub Stats" />
 </a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymericm78" alt="aymericm78" /></a> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymericm78&" alt="aymericm78" /></p>
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Faymericm78)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aymericm78&label=Profile%20views&color=0e75b6&style=flat" alt="aymericm78" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymericm78" alt="aymericm78" /></a> </p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymericm78&" alt="aymericm78" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aymericm78&label=Profile%20views&color=0e75b6&style=flat" alt="aymericm78" /> </p>
 
