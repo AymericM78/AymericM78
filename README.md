@@ -36,11 +36,11 @@ Repo|Description
 ## 📫 Contact
 
 You can follow or reach me on social networks:
-
+<p align="center">
 [![Linkedin Badge](https://img.shields.io/badge/aymericmouille-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aymericmouille/)
 [![Twitter Badge](https://img.shields.io/badge/aymericm78-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/aymericm78/)
 [![Medium Badge](https://img.shields.io/badge/aymericmouille-follow%20on%20medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@aymeric-mouille/)
-
+</p>
 
 ## &#x1f4c8; GitHub Stats
 
