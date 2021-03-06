@@ -1,7 +1,6 @@
 ### Welcome to my labs 👋
 
 My name is Aymeric Mouillé, I'm a Microsoft BizApps Architect based in France.
-You can find me on [![Twitter][1.2]][1]],  or on [![LinkedIn][3.2]][3]].
 
 I'm currently working at [DIMSI](https://dimsi.fr/), a Microsoft Gold Partner company specialized in D365 / Power Apps implementations, as Lead Architect and I'm CTO at [DealFabric](https://www.dealfabric.com/), a Microsoft Certified ISV which provide CRM solutions for investment.
 
@@ -42,6 +41,15 @@ https://www.powershellgallery.com/packages/PowerDataOps
 ![](https://img.shields.io/badge/Technologies-PowerBI-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Technologies-Dynamics365-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
+## How to reach me 📫
+
+You can find and get touch with me on these accounts!
+
+[![Linkedin Badge](https://img.shields.io/badge/aymericmouille-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aymericmouille)
+
+[![Twitter Badge](https://img.shields.io/badge/aymericm78-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/AymericM78/)
+
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Faymericm78.aymericm78%2Freadme)
 
 <!-- links to social media icons -->
 
