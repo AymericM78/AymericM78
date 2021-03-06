@@ -41,26 +41,13 @@ https://www.powershellgallery.com/packages/PowerDataOps
 ![](https://img.shields.io/badge/Technologies-PowerBI-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Technologies-Dynamics365-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
-## How to reach me 📫
+## 📫 Contact
 
-You can find and get touch with me on these accounts!
+You can follow or reach me on social networks:
 
 [![Linkedin Badge](https://img.shields.io/badge/aymericmouille-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aymericmouille)
 
 [![Twitter Badge](https://img.shields.io/badge/aymericm78-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/AymericM78/)
 
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Faymericm78.aymericm78%2Freadme)
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- links to your social media accounts -->
-[1]: https://twitter.com/AymericM78
-[2]: https://github.com/AymericM78
-[3]: https://www.linkedin.com/in/aymericmouille
-[4]: https://aymeric-mouille.medium.com
 
