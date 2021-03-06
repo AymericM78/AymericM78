@@ -9,27 +9,27 @@ I'm currently working at [DIMSI](https://dimsi.fr/), a Microsoft Gold Partner co
 <p>
 I'm focused on dev to env optimization flow : how to increase developer performance and reduce manual operations to target environment.
 First, I worked on a simple tool to generate metadata for a robust late bound oriented dev:
-
+<br/>
 <a href="https://github.com/AymericM78/D365.Model.Generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=D365.Model.Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
-</p>
+</p><br/>
 <p>Then I worked on a project to simplify massive data operations on Microsoft Dataverse with a dev framework that provide pattern and optimization:
-
+<br/>
 <a href="https://github.com/AymericM78/Xrm.DataManager.Framework">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=Xrm.DataManager.Framework&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
+<br/>
 This framework is available as a NuGet package:
 https://www.nuget.org/packages/Xrm.DataManager.Framework/
-</p>
+</p><br/>
 <p>
 And during 7 years, I developed scripting approach to interact with Microsoft Dataverse with a PowerShell tooling.
-
+<br/>
 <a href="https://github.com/AymericM78/PowerDataOps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=PowerDataOps&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
+<br/>
 I built a dedicated module that is available on PowerShell gallery
 https://www.powershellgallery.com/packages/PowerDataOps
 </p>
