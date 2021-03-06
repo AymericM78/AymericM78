@@ -19,14 +19,14 @@ Repo|Description
 
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PowerFx-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Technologies-PowerApps-informational?style=flat&logo=dynamics365&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Technologies-PowerAutomate-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Technologies-PowerBI-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Technologies-Dynamics365-informational?style=flat&logo=dynamics365&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Technologies-PowerApps-informational?style=flat&logo=dynamics-365&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Technologies-PowerAutomate-informational?style=flat&logo=dynamics-365&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Technologies-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Technologies-Dynamics365-informational?style=flat&logo=dynamics-365&logoColor=white&color=2bbc8a)
 
 ## 📫 Contact
 
