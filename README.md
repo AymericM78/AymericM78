@@ -30,6 +30,9 @@ https://www.powershellgallery.com/packages/PowerDataOps
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AymericM78&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aymeric's GitHub Stats" />
 </a>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymericm78" alt="aymericm78" /></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymericm78&" alt="aymericm78" /></p>
+
 ## 🔧 Code & Technologies
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
@@ -47,7 +50,13 @@ You can follow or reach me on social networks:
 
 [![Linkedin Badge](https://img.shields.io/badge/aymericmouille-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aymericmouille)
 
+
 [![Twitter Badge](https://img.shields.io/badge/aymericm78-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/AymericM78/)
+
+<p align="left"> <a href="https://twitter.com/aymericm78" target="blank"><img src="https://img.shields.io/twitter/follow/aymericm78?logo=twitter&style=for-the-badge" alt="aymericm78" /></a> </p>
+
+<a href="https://medium.com/@aymeric-mouille" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aymeric-mouille" height="30" width="40" /></a>
+</p>
 
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Faymericm78.aymericm78%2Freadme)
 
