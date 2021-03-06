@@ -1,4 +1,4 @@
-### Welcome to my labs 👋
+### Welcome to my lab 👋
 
 My name is Aymeric Mouillé, I'm a Microsoft BizApps Architect based in France.
 
@@ -34,6 +34,11 @@ https://www.powershellgallery.com/packages/PowerDataOps
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymericm78&" alt="aymericm78" /></p>
 
 ## 🔧 Code & Technologies
+
+
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -48,15 +53,11 @@ https://www.powershellgallery.com/packages/PowerDataOps
 
 You can follow or reach me on social networks:
 
-[![Linkedin Badge](https://img.shields.io/badge/aymericmouille-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aymericmouille)
-
-
-[![Twitter Badge](https://img.shields.io/badge/aymericm78-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/AymericM78/)
-
+<a href="https://linkedin.com/in/aymericmouille" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aymericmouille" height="30" width="40" /></a>
 <p align="left"> <a href="https://twitter.com/aymericm78" target="blank"><img src="https://img.shields.io/twitter/follow/aymericm78?logo=twitter&style=for-the-badge" alt="aymericm78" /></a> </p>
-
 <a href="https://medium.com/@aymeric-mouille" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aymeric-mouille" height="30" width="40" /></a>
 </p>
 
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Faymericm78.aymericm78%2Freadme)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aymericm78&label=Profile%20views&color=0e75b6&style=flat" alt="aymericm78" /> </p>
 
