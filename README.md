@@ -6,14 +6,15 @@ I'm currently working at [DIMSI](https://dimsi.fr/), a Microsoft Gold Partner co
 
 ## 💡 Projects and IP
 
+<p>
 I'm focused on dev to env optimization flow : how to increase developer performance and reduce manual operations to target environment.
 First, I worked on a simple tool to generate metadata for a robust late bound oriented dev:
 
 <a href="https://github.com/AymericM78/D365.Model.Generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=D365.Model.Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-Then I worked on a project to simplify massive data operations on Microsoft Dataverse with a dev framework that provide pattern and optimization:
+</a>  
+</p>
+<p>Then I worked on a project to simplify massive data operations on Microsoft Dataverse with a dev framework that provide pattern and optimization:
 
 <a href="https://github.com/AymericM78/Xrm.DataManager.Framework">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=Xrm.DataManager.Framework&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -21,7 +22,8 @@ Then I worked on a project to simplify massive data operations on Microsoft Data
 
 This framework is available as a NuGet package:
 https://www.nuget.org/packages/Xrm.DataManager.Framework/
-
+</p>
+<p>
 And during 7 years, I developed scripting approach to interact with Microsoft Dataverse with a PowerShell tooling.
 
 <a href="https://github.com/AymericM78/PowerDataOps">
@@ -30,19 +32,8 @@ And during 7 years, I developed scripting approach to interact with Microsoft Da
 
 I built a dedicated module that is available on PowerShell gallery
 https://www.powershellgallery.com/packages/PowerDataOps
+</p>
 
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/AymericM78/AymericM78">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymericM78&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/AymericM78/AymericM78">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AymericM78&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aymeric's GitHub Stats" />
-</a>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymericm78" alt="aymericm78" /></a> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymericm78&" alt="aymericm78" /></p>
 
 ## 🔧 Code & Technologies
 
@@ -69,6 +60,17 @@ You can follow or reach me on social networks:
 [![Medium Badge](https://img.shields.io/badge/aymeric-mouille-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://medium.com/@aymeric-mouille/)
 
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/AymericM78/AymericM78">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymericM78&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/AymericM78/AymericM78">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AymericM78&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aymeric's GitHub Stats" />
+</a>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymericm78" alt="aymericm78" /></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymericm78&" alt="aymericm78" /></p>
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Faymericm78)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymericm78&label=Profile%20views&color=0e75b6&style=flat" alt="aymericm78" /> </p>
 
