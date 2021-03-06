@@ -17,6 +17,9 @@ Repo|Description
 
 ## 🔧 Code & Technologies
 
+<p align="center"><a href="https://github.com/AymericM78/AymericM78">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymericM78&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a></p>
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
@@ -45,9 +48,6 @@ You can follow or reach me on social networks:
 
 Because graphs are so cool 
 
-<p align="center"><a href="https://github.com/AymericM78/AymericM78">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymericM78&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a></p>
 <p align="center"><a href="https://github.com/AymericM78/AymericM78">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AymericM78&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aymeric's GitHub Stats" />
 </a></p>
