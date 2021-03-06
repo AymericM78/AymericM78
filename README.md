@@ -6,46 +6,24 @@ I'm currently working at [DIMSI](https://dimsi.fr/), a Microsoft Gold Partner co
 
 ## 💡 Projects and IP
 
+I'm focused on dev to env optimization flow : how to increase developer performance and reduce manual operations to target environment.
+
 Repo|Description
 ----|-----------
-<a href="https://github.com/AymericM78/D365.Model.Generator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=D365.Model.Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>|test1
-<a href="https://github.com/AymericM78/D365.Model.Generator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=D365.Model.Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>|test2
-<a href="https://github.com/AymericM78/D365.Model.Generator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=D365.Model.Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>|test3
-
-
-<p>
-I'm focused on dev to env optimization flow : how to increase developer performance and reduce manual operations to target environment.
-First, I worked on a simple tool to generate metadata for a robust late bound oriented dev:
-<br/>
-<a href="https://github.com/AymericM78/D365.Model.Generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=D365.Model.Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
-</p><br/>
-<p>Then I worked on a project to simplify massive data operations on Microsoft Dataverse with a dev framework that provide pattern and optimization:
-<br/>
-<a href="https://github.com/AymericM78/Xrm.DataManager.Framework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=Xrm.DataManager.Framework&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<br/>
-This framework is available as a NuGet package:
-https://www.nuget.org/packages/Xrm.DataManager.Framework/
-</p><br/>
-<p>
-And during 7 years, I developed scripting approach to interact with Microsoft Dataverse with a PowerShell tooling.
-<br/>
-<a href="https://github.com/AymericM78/PowerDataOps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=PowerDataOps&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<br/>
-I built a dedicated module that is available on PowerShell gallery
-https://www.powershellgallery.com/packages/PowerDataOps
-</p>
+<a href="https://github.com/AymericM78/PowerDataOps"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=PowerDataOps&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>|PowerShell module for Microsoft Dataverse automation. https://www.powershellgallery.com/packages/PowerDataOps
+<a href="https://github.com/AymericM78/Xrm.DataManager.Framework"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=Xrm.DataManager.Framework&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>|Nuget framework for massive Microsoft Dataverse data operations.https://www.nuget.org/packages/Xrm.DataManager.Framework/
+<a href="https://github.com/AymericM78/D365.Model.Generator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=D365.Model.Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>|Simple tool for metadata generation that provide a robust late bound oriented dev
 
 
 ## 🔧 Code & Technologies
 
-
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
