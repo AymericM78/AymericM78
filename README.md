@@ -66,7 +66,7 @@ You can follow or reach me on social networks:
 
 [![Linkedin Badge](https://img.shields.io/badge/aymericmouille-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aymericmouille/)
 [![Twitter Badge](https://img.shields.io/badge/aymericm78-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/aymericm78/)
-[![Medium Badge](https://img.shields.io/badge/@aymeric-mouille-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://medium.com/@aymeric-mouille/)
+[![Medium Badge](https://img.shields.io/badge/aymeric-mouille-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://medium.com/@aymeric-mouille/)
 
 <a href="https://linkedin.com/in/aymericmouille" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aymericmouille" height="30" width="40" /></a>
 <p align="left"> <a href="https://twitter.com/aymericm78" target="blank"><img src="https://img.shields.io/twitter/follow/aymericm78?logo=twitter&style=for-the-badge" alt="aymericm78" /></a> </p>
