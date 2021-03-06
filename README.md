@@ -6,6 +6,13 @@ I'm currently working at [DIMSI](https://dimsi.fr/), a Microsoft Gold Partner co
 
 ## 💡 Projects and IP
 
+Repo|Description
+----|-----------
+<a href="https://github.com/AymericM78/D365.Model.Generator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=D365.Model.Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>|test1
+<a href="https://github.com/AymericM78/D365.Model.Generator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=D365.Model.Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>|test2
+<a href="https://github.com/AymericM78/D365.Model.Generator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=D365.Model.Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>|test3
+
+
 <p>
 I'm focused on dev to env optimization flow : how to increase developer performance and reduce manual operations to target environment.
 First, I worked on a simple tool to generate metadata for a robust late bound oriented dev:
