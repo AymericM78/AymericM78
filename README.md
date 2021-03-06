@@ -44,12 +44,14 @@ You can follow or reach me on social networks:
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/AymericM78/AymericM78">
+Because graphs are so cool 
+
+<p align="center"><a href="https://github.com/AymericM78/AymericM78">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymericM78&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/AymericM78/AymericM78">
+</a></p>
+<p align="center"><a href="https://github.com/AymericM78/AymericM78">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AymericM78&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aymeric's GitHub Stats" />
-</a>
+</a></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymericm78" alt="aymericm78" /></a> </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymericm78&" alt="aymericm78" /></p>
