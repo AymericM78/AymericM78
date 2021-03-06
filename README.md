@@ -14,12 +14,20 @@ First, I worked on a simple tool to generate metadata for a robust late bound or
 </a>    
 
 Then I worked on a project to simplify massive data operations on Microsoft Dataverse with a dev framework that provide pattern and optimization:
-https://github.com/AymericM78/Xrm.DataManager.Framework
+
+<a href="https://github.com/AymericM78/Xrm.DataManager.Framework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=Xrm.DataManager.Framework&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 This framework is available as a NuGet package:
 https://www.nuget.org/packages/Xrm.DataManager.Framework/
 
 And during 7 years, I developed scripting approach to interact with Microsoft Dataverse with a PowerShell tooling.
-https://github.com/AymericM78/PowerDataOps
+
+<a href="https://github.com/AymericM78/PowerDataOps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=PowerDataOps&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 I built a dedicated module that is available on PowerShell gallery
 https://www.powershellgallery.com/packages/PowerDataOps
 
