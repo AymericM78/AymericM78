@@ -1,12 +1,12 @@
 ### Welcome to my lab 👋
 
-My name is Aymeric Mouillé, I'm a Microsoft BizApps Architect based in France.
+My name is Aymeric Mouillé, I'm a Microsoft Solutions Architect based in France.
 
 I'm currently working at [DIMSI](https://dimsi.fr/), a Microsoft Gold Partner company specialized in D365 / Power Apps implementations, as Lead Architect and I'm CTO at [DealFabric](https://www.dealfabric.com/), a Microsoft Certified ISV which provide CRM solutions for investment.
 
 ## 💡 Projects and IP
 
-I'm focused on dev to env optimization flow : how to increase developer performance and reduce manual operations to target environment.
+I'm focused on dev to env flows optimization : how to increase developer performance and reduce manual operations to target environment.
 
 Repo|Description
 ----|-----------
