@@ -8,11 +8,11 @@ I'm currently working at [DIMSI](https://dimsi.fr/), a Microsoft Gold Partner co
 
 I'm focused on dev to env flows optimization : how to increase developer performance and reduce manual operations to target environment.
 
-Repo|Description
-----|-----------
-<a href="https://github.com/AymericM78/PowerDataOps"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=PowerDataOps&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>|PowerShell module for Microsoft Dataverse automation. https://www.powershellgallery.com/packages/PowerDataOps
-<a href="https://github.com/AymericM78/Xrm.DataManager.Framework"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=Xrm.DataManager.Framework&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>|Nuget framework for massive Microsoft Dataverse data operations.https://www.nuget.org/packages/Xrm.DataManager.Framework/
-<a href="https://github.com/AymericM78/D365.Model.Generator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=D365.Model.Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>|Simple tool for metadata generation that provide a robust late bound oriented dev
+<a href="https://github.com/AymericM78/PowerDataOps"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=PowerDataOps&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+
+<a href="https://github.com/AymericM78/Xrm.DataManager.Framework"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=Xrm.DataManager.Framework&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+
+<a href="https://github.com/AymericM78/D365.Model.Generator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AymericM78&repo=D365.Model.Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 
 
 ## 🔧 Code & Technologies
