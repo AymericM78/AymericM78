@@ -2,7 +2,7 @@
 
 My name is Aymeric Mouillé, I'm a Microsoft Solutions Architect based in France.
 
-I'm currently working at [DIMSI](https://dimsi.fr/), a Microsoft Gold Partner company specialized in D365 / Power Apps implementations, as Lead Architect and I'm CTO at [DealFabric](https://www.dealfabric.com/), a Microsoft Certified ISV which provide CRM solutions for investment.
+I'm currently CTO at [DealFabric](https://www.dealfabric.com/), a Microsoft Certified ISV which provide CRM solutions for investment. And also working at [DIMSI](https://dimsi.fr/), a Microsoft Gold Partner company specialized in D365 / Power Apps implementations, as Architect.
 
 ## 💡 Projects and IP
 
